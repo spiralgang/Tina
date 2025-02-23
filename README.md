@@ -4,9 +4,21 @@
 Tina is an awesome Android UI app.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+
+1. Cross-app interaction on iOS devices
+2. Robust permission system
+3. Advanced interface for problem-solving across different applications
+4. Owner recognition and obedience
+5. Interpretation and following of user/owner moral principles
+6. Continuous operation capability
+7. Intuitive file organization and access system
+8. Advanced natural language processing and human interactive well comprehended by AI translingual deduction
+9. Secure credential locally stored and managed
+10. Logging system for AI actions and decisions
+11. User-friendly, dumbing down response complexity, by the interface for non-technical users
+12. Advanced learning behavioral system for improved problem-solving over time through forever memory storage nearby in quick access locations
+
+
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/spiralgang/Tina.git`
@@ -15,7 +27,7 @@ Tina is an awesome Android UI app.
 4. Build and run the app.
 
 ## Usage
-- Instructions on how to use the app.
+- Anything and everything you can do on your device, when given permission and asked, TINA can do it too; but better, faster, stronger than any person could ever even hope to. 
 
 ## Contributing
 1. Fork the repository.
